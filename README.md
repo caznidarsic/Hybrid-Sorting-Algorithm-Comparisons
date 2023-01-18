@@ -11,4 +11,4 @@ QuickSort_LowPivot_Insertion_100: Perform QuickSort using the first value from t
 QuickSort_MedianThree: Perform QuickSort using the median of the first, middle and last elements from the input array as the pivot.
 
 
-These various sorting algorithms are given various inputs (lists in already sorted order, reverse sorted order, random order etc.) and their runtimes are compared. Runtimes are generalized as the number of recursive calls made by the function.
+These various sorting algorithms are given various inputs (lists in already sorted order, reverse sorted order, random order etc.) and their runtimes are compared. Runtimes are generalized as the number of comparisons between values made by the program.
