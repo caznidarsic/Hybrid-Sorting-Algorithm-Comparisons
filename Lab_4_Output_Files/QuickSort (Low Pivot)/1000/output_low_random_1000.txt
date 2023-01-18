@@ -1,0 +1,2 @@
+Number of comparisons: 13156
+Number of swaps: 5589

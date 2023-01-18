@@ -1,0 +1,2 @@
+Number of comparisons: 999
+Number of swaps: 0
